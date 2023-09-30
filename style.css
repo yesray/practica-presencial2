@@ -1,0 +1,35 @@
+.logo{
+    background-color: #37026F;
+    color: white;
+    width: 30%;
+    border-radius: 5%;
+    border-style: solid;
+    text-align: center
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #572F85;
+}
+
+body{
+    background-color: #71598A;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;    
+}
+
+nav{
+    width: 70%;
+    background-color: #37026F;
+}
+
+li{
+    width: 30%;
+color: white;
+font-family: 'Gabarito', cursive;
+font-family: 'Poppins', sans-serif;
+}
